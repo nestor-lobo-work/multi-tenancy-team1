@@ -22,8 +22,6 @@ metadata:
   annotations:
     flux.weave.works/automated: "true"
     flux.weave.works/tag.podinfod: semver:~1.7
-    fluxcd.io/locked: "true"
-    fluxcd.io/locked_user: Nestor Lobo <mlobo@mural.co>
   name: frontend
   namespace: team1
 spec:
