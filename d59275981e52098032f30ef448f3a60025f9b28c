@@ -1,0 +1,1 @@
+{"jobID":"5de44632-71dc-9a49-c870-96ae26fdabbf","spec":{"type":"policy","cause":{"Message":"","User":"Nestor Lobo \u003cmlobo@mural.co\u003e"},"spec":{"team1:deployment/frontend":{"add":{},"remove":{"locked":"true","locked_msg":"true","locked_user":"true"}}}},"result":null}
